@@ -8,5 +8,5 @@ Lab_03Kodochigov
 Программа написана на языке Python в среде PyCharm
 # Cкриншоты работы
 ![image](https://user-images.githubusercontent.com/113355417/193109913-b54ae830-fb59-480c-9b3a-ab53598968cc.png)
-![image](https://user-images.githubusercontent.com/113355417/192836327-f11e0809-5195-476e-990a-1421a4790ed3.png)
-![image](https://user-images.githubusercontent.com/113355417/192836418-97640b3a-33f1-43ed-b1a1-a4d83e349e05.png)
+![image](https://user-images.githubusercontent.com/113355417/193110226-b6f040c1-a22d-453f-9689-73fee58ea948.png)
+![image](https://user-images.githubusercontent.com/113355417/193110345-d558751e-ca13-4a6e-bec7-d68b760deef9.png)
